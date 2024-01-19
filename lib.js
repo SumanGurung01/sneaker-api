@@ -1,14 +1,12 @@
 function generateRandomId() {
-    const characters =
-        'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
-    let randomId = '';
-
-    for (let i = 0; i < 20; i++) {
-        const randomIndex = Math.floor(Math.random() * characters.length);
-        randomId += characters.charAt(randomIndex);
+    const numbers = ['1', '2', '3', '4', '5', '6', '7', '8', '9'];
+    var randomId = '';
+    for (let i = 0; i < 10; i++) {
+        const index = Math.floor(Math.random() * numbers.length);
+        randomId += numbers[index];
     }
 
-    return randomId;
+    return Number(randomId);
 }
 
 module.exports = generateRandomId;
