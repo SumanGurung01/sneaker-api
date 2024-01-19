@@ -24,4 +24,6 @@ app.get('/get-sneaker/:id', (req, res) => {
             res.json(sneaker);
         }
     });
+
+    res.json(null);
 });
