@@ -5,13 +5,13 @@
 
 #### get all sneakers
 
-```http
+```bash
   GET /
 ```
 
 #### get sneaker with ID
 
-```http
+```bash
   GET /get-sneaker/${id}
 ```
 
