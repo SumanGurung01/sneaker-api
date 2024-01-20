@@ -397,6 +397,196 @@ const sneakers = [
         released: "09-11-2022",
         brand: "Nike",
         id: 1193959197
+    },
+    {
+        name: "Undefeated x Air Force 1 Low 'Total Orange",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/082/245/296/original/1024163_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/082/245/312/original/1024163_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/082/245/311/original/1024163_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/082/245/300/original/1024163_04.jpg.jpeg"
+        ],
+        color: "Multi-Color",
+        sizes: [3, 5, 6, 7, 8, 9, 10, 11, 12, 14, 16, 17, 18],
+        silhouette: "Air Force 1",
+        description:
+            "The Undefeated x Nike Air Force 1 Low ‘Total Orange’ delivers an eye-catching design highlighted by clashing hues and a glossy exterior. Built with shiny patent leather, the paneled upper is finished in an eclectic mix of blue, fuchsia, crimson, purple and black. In addition to a stitched orange Swoosh, branding elements include UNDFTD lace dubrae and a debossed Nike Air logo on the heel tab. Undefeated’s Five Strikes graphic appears on the lateral heel and woven tongue tag. The low-top is mounted on a crisp white midsole, fitted with encapsulated Air-sole cushioning and supported by a translucent rubber outsole.",
+        price: 110,
+        gender: ["men"],
+        released: "12-04-2022",
+        brand: "Nike",
+        id: 9722615195
+    },
+    {
+        name: "Air Force 1 '07 'Triple White'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/048/340/054/original/712867_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/048/340/078/original/712867_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/048/340/073/original/712867_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/048/340/071/original/712867_04.jpg.jpeg"
+        ],
+        color: "White",
+        sizes: [5, 6, 7, 8, 9, 10, 11, 12, 14, 16, 17],
+        silhouette: "Air Force 1",
+        description:
+            "The Nike Air Force 1 ‘07 ‘Triple White’ gives the classic silhouette a blank-slate makeover, one that accentuates the shoe’s classic lines. Built with white leather, the upper is appointed with heritage details, including a perforated toe box, variable width lacing, and metallic silver lace dubrae. A matching white rubber cupsole packs an Air-sole heel unit encapsulated in lightweight foam. Underfoot, the rubber outsole features the original pivot-point traction pattern.",
+        price: 70,
+        gender: ["men", "women"],
+        released: "12-10-2020",
+        brand: "Nike",
+        id: 6959844124
+    },
+    {
+        name: "Air Force 1 '07 LX 'Sequoia'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/092/598/924/original/1264710_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/598/936/original/1264710_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/598/931/original/1264710_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/598/937/original/1264710_04.jpg.jpeg"
+        ],
+        color: "Green",
+        sizes: [3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 17],
+        silhouette: "Air Force 1",
+        description:
+            "The Nike Air Force 1 ‘07 LX ‘Sequoia’ features a dark green hue on the upper, constructed from a breathable canvas base with tumbled leather overlays at the forefoot and heel. The tonal design is broken up by a suede signature Swoosh in Light Orewood Brown. Undergirding the low-top is a durable rubber cupsole, rendered in a subtle off-white finish and enhanced with an encapsulated Air-sole unit in the heel for improved cushioning.",
+        price: 80,
+        gender: ["men"],
+        released: "08-23-2023",
+        brand: "Nike",
+        id: 8369881695
+    },
+    {
+        name: "Air Jordan 2 Retro 'Python'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/097/168/742/original/1338187_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/168/762/original/1338187_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/168/757/original/1338187_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/168/751/original/1338187_04.jpg.jpeg"
+        ],
+        color: "White",
+        sizes: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 16, 17, 18],
+        silhouette: "Air Jordan 2",
+        description:
+            "The Air Jordan 2 Retro ‘Python’ carries a white leather upper with a snakeskin-patterned midfoot overlay outlined in black piping. A black Wings logo is embossed on the tongue, while a Nike wordmark adorns the back tab in crimson block lettering. An aged off-white finish is applied to the extended heel counter and polyurethane midsole, featuring an encapsulated Air-sole unit nestled in the heel.",
+        price: 140,
+        gender: ["men"],
+        released: "01-21-2024",
+        brand: "Nike",
+        id: 7465788699
+    },
+    {
+        name: "J. Balvin x Air Jordan 2 Retro",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/074/369/328/original/949375_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/074/369/334/original/949375_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/074/369/330/original/949375_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/074/369/331/original/949375_04.jpg.jpeg"
+        ],
+        color: "Blue",
+        sizes: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 16, 17, 18],
+        silhouette: "Air Jordan 2",
+        description:
+            "The J Balvin x Air Jordan 2 Retro delivers the Colombian reggaeton singer’s whimsical take on the legacy silhouette, featuring a powder blue ripstop upper with contrast multicolor stitching. A glow-in-the-dark Wings logo adorns the tongue, while an all-over graphic depicting cloudy blue skies decorates the interior lining and heel overlay. The latter is further accented with J Balvin’s signature smiley face graphic. Lightweight cushioning arrives via a crisp white polyurethane midsole, fitted with encapsulated Air-sole cushioning and supported by a translucent rubber outsole.",
+        price: 140,
+        gender: ["men"],
+        released: "09-16-2022",
+        brand: "Nike",
+        id: 5789431454
+    },
+    {
+        name: "Air Jordan 2 Retro 'Origins'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/094/646/977/original/1212031_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/646/972/original/1212031_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/646/973/original/1212031_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/646/975/original/1212031_04.jpg.jpeg"
+        ],
+        color: "White",
+        sizes: [3, 5, 6, 7, 9, 10, 11, 12, 14, 16, 17, 18],
+        silhouette: "Air Jordan 2",
+        description:
+            "The Air Jordan 2 Retro ‘Origins’ showcases a distinctive color scheme that nods to the shoe’s premium roots. (The original 1986 release paired an elegant Swooshless design with made-in-Italy construction.) This pair dons a white leather upper with faux lizard skin on the midfoot overlay. The latter is outlined in two-tone piping in red and green, with the contrasting hues making a repeat appearance on the Nike-branded heel tab. Crimson textile lines the high-cut collar, matching the embossed Wings logo that decorates the tongue. A vintage off-white finish is applied to the polyurethane midsole, fitted with encapsulated Air-sole cushioning and supported by a two-tone rubber outsole.",
+        price: 150,
+        gender: ["men"],
+        released: "11-16-2023",
+        brand: "Nike",
+        id: 6749574894
+    },
+    {
+        name: "Air Jordan 1 Retro High OG 'UNC Toe'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/090/732/808/original/1145907_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/090/732/829/original/1145907_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/090/741/218/original/1145907_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/090/732/816/original/1145907_04.jpg.jpeg"
+        ],
+        color: "Blue",
+        sizes: [3, 4, 5, 6, 7, 9, 10, 11, 12, 15, 16, 17, 18],
+        silhouette: "Air Jordan 1",
+        description:
+            "Inspired by Michael Jordan’s alma mater, the Air Jordan 1 Retro High OG ‘UNC Toe’ brings back the distinctive color blocking originally featured on the ‘Bred Toe’ AJ1 from 2018. The high-top utilizes an all-leather upper with white quarter panels and contrasting hits of black on the signature Swoosh and forefoot overlay. University Blue accents make their way to the toe box, heel and collar flap, marked with a retro Wings logo on the lateral side. A woven Nike tag atop the breathable nylon tongue delivers an OG-inspired touch. Lightweight cushioning arrives via a white rubber midsole with an Air-sole heel unit encapsulated in a polyurethane wedge. Underfoot, a blue rubber outsole provides durable traction with every step.",
+        price: 170,
+        gender: ["men"],
+        released: "07-23-2023",
+        brand: "Nike",
+        id: 3968733263
+    },
+    {
+        name: "Marvel x Air Jordan 1 Retro High OG 'Next Chapter'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/085/116/986/original/1103114_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/116/982/original/1103114_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/116/985/original/1103114_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/116/989/original/1103114_04.jpg.jpeg"
+        ],
+        color: "Red",
+        sizes: [3, 4, 5, 6, 7, 9, 10, 11, 12, 15, 16, 17, 18],
+        silhouette: "Air Jordan 1",
+        description:
+            "The Marvel x Air Jordan 1 Retro High OG ‘Next Chapter' delivers a collaborative colorway tied to the animated film 'Spider-Man: Across the Spider-Verse.’ A play on the original ‘Chicago’ colorway, this reimagined take on the sneaker icon features a white leather upper with black patent leather on the collar and Swoosh. Scarlet overlays are composed of a patchwork mix of different textures and prints — a pieced-together design that nods to the multidimensional Spiderman universe. A retro Wings logo is stamped on the lateral collar flap, while a woven Nike tag decorates the nylon tongue. The high-top rides on a rubber cupsole that pairs aged sidewalls with a crimson semi-translucent rubber outsole.",
+        price: 150,
+        gender: ["men"],
+        released: "05-21-2023",
+        brand: "Nike",
+        id: 6643778371
+    },
+    {
+        name: "Air Jordan 11 Retro 'Gratitude / Defining Moments'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/093/247/099/original/1176804_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/095/815/126/original/1176804_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/246/746/original/1176804_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/246/744/original/1176804_04.jpg.jpeg"
+        ],
+        color: "Red",
+        sizes: [3, 4, 5, 9, 10, 11, 12, 15, 16, 17],
+        silhouette: "Air Jordan 11",
+        description:
+            "The 2023 edition of the Air Jordan 11 Retro 'Gratitude / Defining Moments', also known as 'DMP', brings back a coveted colorway of the iconic silhouette, originally paired with an Air Jordan 6 as one-half of the 'Defining Moments Pack' from 2006. Inspired by the OG 'Concord' colorway, the championship model features a white tumbled leather upper with tonal webbing eyelets and a black patent leather mudguard. Metallic gold accents highlight the shoe's branding elements, including an embossed Jumpman logo on the lateral ankle and a '23' stamped on the heel tab. The sneaker sits atop a Phylon midsole, supported by a carbon fiber shank plate and a translucent rubber outsole.",
+        price: 210,
+        gender: ["men"],
+        released: "12-10-2023",
+        brand: "Nike",
+        id: 7349662327
+    },
+    {
+        name: "Air Jordan 11 Retro 'Cherry'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/081/526/420/original/920713_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/081/526/421/original/920713_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/081/526/424/original/920713_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/081/526/430/original/920713_04.jpg.jpeg"
+        ],
+        color: "Red",
+        sizes: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 16, 17],
+        silhouette: "Air Jordan 11",
+        description:
+            "The Air Jordan 11 Retro ‘Cherry’ showcases familiar two-tone color blocking that recalls the low-top AJ11 ‘Varsity Red’ from 2001. The upper is crafted from white ballistic mesh with tonal webbing eyelets and a shiny patent leather mudguard in a bold scarlet hue. Matching red accents land on the interior collar and an embroidered Jumpman on the white leather heel overlay. Lightweight cushioning arrives via a plush Phylon midsole, supported underfoot by a carbon fiber spring plate and a translucent rubber outsole.",
+        price: 190,
+        gender: ["men", "women"],
+        released: "12-11-2023",
+        brand: "Nike",
+        id: 6261239532
     }
 ];
 
