@@ -587,6 +587,102 @@ const sneakers = [
         released: "12-11-2023",
         brand: "Nike",
         id: 6261239532
+    },
+    {
+        name: "Air Jordan 1 Retro High '85 OG 'Metallic Burgundy'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/098/168/766/original/1321532_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/168/777/original/1321532_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/168/774/original/1321532_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/168/771/original/1321532_04.jpg.jpeg"
+        ],
+        color: "White",
+        sizes: [4, 5, 6, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18],
+        silhouette: "Air Jordan 1",
+        description:
+            "The Air Jordan 1 Retro High ‘85 OG ‘Metallic Burgundy’ brings back an OG colorway from 1986. Constructed with the higher-cut collar and wider toe box of the silhouette’s original release, the foundational sneaker features a white leather upper with contrasting Team Red accents. The hits of color land on the padded collar and the shoe’s branding elements, including the Swoosh, Nike Air tongue tag, and the Wings logo stamped on the lateral ankle. Anchoring the high-top is a durable rubber cupsole, featuring white sidewalls and a burgundy outsole.",
+        price: 210,
+        gender: ["men"],
+        released: "02-17-2024",
+        brand: "Nike",
+        id: 5821183457
+    },
+    {
+        name: "Dunk Low CO.JP 'Reverse Curry' 2024",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/097/104/892/original/1249413_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/009/357/original/1249413_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/009/067/original/1249413_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/009/353/original/1249413_04.jpg.jpeg"
+        ],
+        color: "Orange",
+        sizes: [4, 5, 8, 9, 10, 11, 14, 15, 16, 17, 18],
+        silhouette: "Dunk Low",
+        description:
+            "The 2024 edition of the Nike Dunk Low CO.JP ‘Reverse Curry’ brings back a coveted two-tone colorway from 1999. The low-top makes use of a smooth leather upper, featuring a dark tan base with contrasting white overlays and a color-matched Swoosh. Heritage details include a breathable nylon tongue and perforation detailing on the toe box. The sneaker is mounted on a durable rubber cupsole, fitted with an interior foam wedge for lightweight cushioning.",
+        price: 110,
+        gender: ["men", "women"],
+        released: "01-13-2024",
+        brand: "Nike",
+        id: 9224388456
+    },
+    {
+        name: "April Skateboards x Dunk Low SB 'Turbo Green'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/092/705/125/original/1236006_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/705/035/original/1236006_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/705/122/original/1236006_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/705/121/original/1236006_04.jpg.jpeg"
+        ],
+        color: "Green",
+        sizes: [4, 5, 8, 9, 10, 11, 14, 15, 16, 17, 18],
+        silhouette: "Dunk Low",
+        description:
+            "The April Skateboards x Nike Dunk Low SB ‘Turbo Green’ dresses the retro model in an airy white mesh upper, accented with a chrome Swoosh and fortified with suede overlays in a bright teal finish. White leather is utilized on the toe box and back tab, marked with April and Nike SB branding across the left and right shoe. ‘April’ is stamped on the lateral heel, while each tongue tag displays mismatched Nike SB and April logos. Underfoot, a translucent rubber outsole reveals a unique floral graphic.",
+        price: 180,
+        gender: ["men", "women"],
+        released: "11-28-2023",
+        brand: "Nike",
+        id: 5494733196
+    },
+    {
+        name: "Air Jordan 1 Retro Low OG 'Year of the Dragon'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/097/139/606/original/1293059_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/139/607/original/1293059_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/139/608/original/1293059_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/139/615/original/1293059_04.jpg.jpeg"
+        ],
+        color: "Green",
+        sizes: [5, 6, 7, 8, 9, 10, 11, 14, 15, 16, 17, 18],
+        silhouette: "Dunk Low",
+        description:
+            "The Air Jordan 1 Retro Low OG ‘Year of the Dragon’ celebrates the Year of the Dragon, featuring an off-white leather upper with scaly green overlays at the forefoot and heel. Dark crimson accents land on the laces, Nike Air tongue tag, signature Swoosh, and the Wings logo stitched atop the golden textile back tab. Inside the tongue displays a Jumpman intertwined with a dragon, while an ornate Jumpman logo decorates the sockliner. The low-top is mounted on a vintage off-white midsole, supported underfoot by a translucent rubber outsole.",
+        price: 160,
+        gender: ["men", "women"],
+        released: "01-25-2024",
+        brand: "Nike",
+        id: 4588718343
+    },
+
+    {
+        name: "Dunk Low SB 'Court Purple'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/097/181/401/original/699721_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/049/161/603/original/699721_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/049/161/600/original/699721_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/049/161/591/original/699721_04.jpg.jpeg"
+        ],
+        color: "Purple",
+        sizes: [5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17],
+        silhouette: "Dunk Low",
+        description:
+            "The Nike Dunk Low SB ‘Court Purple’ delivers a straightforward colorway of the classic silhouette, redolent of the brand’s pink and silver box eras. The low-top makes use of a white leather upper with contrasting black overlays on the forefoot, eyestay and collar. A heel overlay in Court Purple is matched by the rubber outsole, featuring a grippy traction pattern originally designed for the hardwood. Zoom Air cushioning in the sockliner combines with a stuffed tongue to provide enhanced comfort.",
+        price: 120,
+        gender: ["men", "women"],
+        released: "01-24-2021",
+        brand: "Nike",
+        id: 9147144424
     }
 ];
 
