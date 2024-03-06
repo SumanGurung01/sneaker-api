@@ -683,6 +683,82 @@ const sneakers = [
         released: "01-24-2021",
         brand: "Nike",
         id: 9147144424
+    },
+    {
+        name: "Comme des Garçons PLAY x Chuck 70 High 'Multi Heart - Milk Black'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/095/590/732/original/1309322_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/095/590/746/original/1309322_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/095/590/742/original/1309322_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/095/590/739/original/1309322_04.jpg.jpeg"
+        ],
+        color: "Cream",
+        sizes: [4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17],
+        silhouette: "Converse Chuck 70",
+        description:
+            "The Comme des Garçons PLAY x Converse Chuck 70 High ‘Milk Black’ showcases the familiar heart-and-eyes logo, finished in black and arranged in multiple orientations throughout the ivory-hued canvas upper. The high-top is appointed with heritage details, including a rubber toe cap, winged tongue stitching atop the tongue, and a circular All Star patch on the medial ankle. Anchoring the sneaker is a vulcanized rubber midsole, featuring the Chuck 70’s signature raised sidewalls.",
+        price: 100,
+        gender: ["men", "women"],
+        released: "10-27-2023",
+        brand: "Converse",
+        id: 1851843335
+    },
+    {
+        name: "Come Tees x Converse Chuck 70 High 'Realms and Realities'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/071/106/407/original/903255_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/071/106/422/original/903255_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/071/106/418/original/903255_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/071/106/413/original/903255_04.jpg.jpeg"
+        ],
+        color: "Multi-Color",
+        sizes: [4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17],
+        silhouette: "Converse Chuck 70",
+        description:
+            "Dropping as part of a capsule collection with the LA-based fashion label, the Come Tees x Converse Chuck 70 High ‘Realms and Realities’ features unique imagery intended to convey a stream-of-consciousness approach to design. A different digitally-printed graphic is applied to every panel of the 12oz canvas upper, including multicolor graffiti-like text and a black and orange tiger print. ‘Come Tees’ and ‘Realms and Realities’ are inscribed on the heel of the left and right shoe, respectively. Underfoot, the black and grey rubber outsole is updated with a unique ‘shatter’ graphic.",
+        price: 110,
+        gender: ["men", "women"],
+        released: "02-18-2022",
+        brand: "Converse",
+        id: 1356657623
+    },
+    {
+        name: "Comme des Garçons PLAY x Chuck 70 High 'Blue Quartz'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/056/003/895/original/780232_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/056/003/897/original/780232_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/056/003/900/original/780232_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/056/003/899/original/780232_04.jpg.jpeg"
+        ],
+        color: "Blue",
+        sizes: [5, 6, 7, 8, 9, 10, 11, 12, 14, 16, 17],
+        silhouette: "Converse Chuck 70",
+        description:
+            "The Comme des Garçons PLAY x Converse Chuck 70 High ‘Blue Quartz’ features a traditional canvas build dominated by Filip Pagowski’s instantly familiar heart and eyes logo. On the sneaker’s lateral side, the oversized icon stands out in black and white against a royal blue backdrop. Traditional Chuck 70 components are present and accounted for, including contrast stitching, chrome eyelets, a reinforced rubber toe cap and a circular All Star patch on the medial ankle. Lightweight cushioning is provided by an Ortholite sockliner, featuring dual Converse and CDG Play branding.",
+        price: 150,
+        gender: ["men", "women"],
+        released: "06-04-2021",
+        brand: "Converse",
+        id: 9426195692
+    },
+    {
+        name: "Travis Scott x Air Jordan 1 Retro Low OG 'Reverse Mocha'",
+        image: [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/075/326/086/original/854208_00.png.png",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/075/326/099/original/854208_08.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/075/326/096/original/854208_06.jpg.jpeg",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/075/326/095/original/854208_04.jpg.jpeg"
+        ],
+        color: "Brown",
+        sizes: [4, 5, 6, 7, 8, 9, 11, 12, 14, 16],
+        silhouette: "Dunk Low",
+        description:
+            "The Travis Scott x Air Jordan 1 Retro Low OG ‘Reverse Mocha’ delivers a twist on the original ‘Mocha’ AJ1 Low from 2019. The upper combines a brown suede base with ivory leather overlays and the Houston rapper’s signature reverse Swoosh on the lateral side, featuring oversized dimensions and a neutral cream finish. Contrasting scarlet accents distinguish a pair of woven Nike Air tongue tags, as well as mismatched Cactus Jack and retro Wings logos embroidered on each heel tab. A vintage off-white rubber midsole is bolstered with encapsulated Nike Air cushioning in the heel and a brown rubber outsole underfoot.",
+        price: 1500,
+        gender: ["men", "women"],
+        released: "07-22-2022",
+        brand: "Nike",
+        id: 8626931268
     }
 ];
 
