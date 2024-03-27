@@ -1,11 +1,13 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const data = require("./data.js");
+const cors = require("cors");
 
 const app = express();
 const PORT = 3000;
 
 app.use(bodyParser.json());
+app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 app.listen(PORT, () => {
@@ -19,11 +21,12 @@ app.get("/", (req, res) => {
 app.get("/get-sneaker/:id", (req, res) => {
     const sneakerId = req.params.id;
 
+    var foundSneaker = null;
     data.forEach((sneaker) => {
         if (sneaker.id == sneakerId) {
-            res.json(sneaker);
+            foundSneaker = sneaker;
         }
     });
 
-    res.json(null);
+    res.json(foundSneaker);
 });
